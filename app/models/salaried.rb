@@ -1,0 +1,2 @@
+class Salaried < ApplicationRecord
+end
